@@ -1,0 +1,51 @@
+abstract class StringConstants {
+  static const String appTitle = "Dibs";
+  static const String groups = "Groups";
+  static const String friends = "Friends";
+  static const String home = "Home";
+  static const String notifications = "Notifications";
+  static const String ratesForToday = "Rates for today";
+  static const String settings = "Settings";
+  static const String general = "General";
+  static const String editProfile = "Edit Profile";
+  static const String changePassword = "Change Password";
+  static const String payments = "Payments";
+  static const String preferences = "Preferences";
+  static const String logout = "Logout";
+  static const String holeHouse = "Holehouse";
+  static const String modernFamily = "Modern Family";
+  static const String major = "Major";
+  static const String duration = "Duration";
+  static const String moreStuff = "More Stuff";
+  static const String scanCode = "Scan Code";
+  static const String dibsPro = "Dibs Pro";
+  static const String profile = "Profile";
+  static const String personalDetails = "Personal Details";
+  static const String name = "Name";
+  static const String typeInYourMailOrPhoneNumber =
+      "Type in your email or phone number";
+  static const String emailHintText = "Mail is also important baba";
+  static const String phoneNumber = "Phone Number";
+  static const String phoneNumberHintText = "I'll call you ;)";
+  static const String enterPassword = "Enter password";
+  static const String task = "Task";
+  static const String taskHintText = "Enter the job man!";
+  static const String description = "Description";
+  static const String descriptionHintText = "Because buddy is gonna ask..";
+  static const String amount = "Amount";
+  static const String amountHintText = "This is what we decide";
+  static const String tip = "Tip";
+  static const String tipHintText = "Because everyone negotiates";
+  static const String assignTask = "Assign Task";
+  static const String invalidError = "What is this behavior?";
+  static const String login = "LOGIN";
+  static const String signUp = "SIGN UP";
+  static const String user = "user";
+  static const String email = "Email";
+  static const String nameHintText = "How else will we know your identity?";
+  static const String inviteYourBuddiesBruh = "Invite your buddies bruh!";
+  static const String groupName = "Group Name";
+  static const String welcomeToDibs = "Welcome to Dibs";
+  static const String guruJiSaysHello = "Guru ji says hello";
+
+}

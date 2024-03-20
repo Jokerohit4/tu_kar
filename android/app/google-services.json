@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393940054853",
+    "project_id": "dibs-d8c2d",
+    "storage_bucket": "dibs-d8c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393940054853:android:57b87dfa28a3fd431ec42c",
+        "android_client_info": {
+          "package_name": "in.bizzbuzz.tu_kar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fzrbI3XJBUach9Knw6UUPsq5id8edq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
